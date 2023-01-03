@@ -1,0 +1,41 @@
+@font-face {
+	font-family: 'Aeonik';
+	src: url('/fonts/Aeonik/AeonikTRIAL-Bold.otf');
+	font-weight: bold;
+	font-style: bold;
+}
+
+@font-face {
+	font-family: 'Aeonik';
+	src: url('/fonts/Aeonik/AeonikTRIAL-Light.otf');
+	font-weight: 300;
+	font-style: light;
+}
+
+@font-face {
+	font-family: 'Aeonik';
+	src: url('/fonts/Aeonik/AeonikTRIAL-Regular.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Aktiv Grotesk';
+	src: url('/fonts/Aktiv Grotesk/TTF/AktivGrotesk-Bold.ttf');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Aktiv Grotesk';
+	src: url('/fonts/Aktiv Grotesk/TTF/AktivGrotesk-Medium.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Aktiv Grotesk';
+	src: url('/fonts/Aktiv Grotesk/TTF/AktivGrotesk-Light.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
