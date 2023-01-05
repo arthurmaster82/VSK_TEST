@@ -28,7 +28,7 @@ const Section2Home: React.FunctionComponent<ISection2HomeProps> = props => {
 					</p>
 
 					<button className="btn btn-info btn-sm rounded-none">
-						Comence Agora
+						Comece Agora
 					</button>
 				</div>
 
