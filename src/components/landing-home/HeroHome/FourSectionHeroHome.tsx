@@ -8,7 +8,7 @@ const FourSectionHeroHome: React.FunctionComponent<IFourSectionHeroHomeProps> = 
 	return (
 		<div className="md:py-28 py-10 container text-center text-white">
 			<h5 className="font-bold md:text-3xl text-xl">
-				¿Que experiência você gostaria de viver hoje?
+				Que experiência você gostaria de viver hoje?
 			</h5>
 
 			<div className="flex text-info bg-vsk-900 border-y md:text-2xl text-sm border-info rounded-2xl mt-8">
