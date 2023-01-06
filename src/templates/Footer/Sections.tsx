@@ -13,7 +13,7 @@ const SectionsFooter: React.FunctionComponent<ISectionsFooterProps> = () => (
 						href="/"
 						className="hover:underline text-[#D1E0FB]"
 					>
-						Voce
+						Você
 					</NextLink>
 				</li>
 				<li className="mb-3">
@@ -37,7 +37,7 @@ const SectionsFooter: React.FunctionComponent<ISectionsFooterProps> = () => (
 		</div>
 		<div>
 			<h2 className="mb-6 text-sm font-semibold uppercase text-white">
-				Para Voce
+				Para Você
 			</h2>
 			<ul className="text-gray-400 text-sm">
 				<li className="mb-3">
@@ -45,7 +45,7 @@ const SectionsFooter: React.FunctionComponent<ISectionsFooterProps> = () => (
 						href="/para-voce"
 						className="hover:underline text-[#D1E0FB] "
 					>
-						Credito
+						Crédito
 					</NextLink>
 				</li>
 				<li className="mb-3">
@@ -85,7 +85,7 @@ const SectionsFooter: React.FunctionComponent<ISectionsFooterProps> = () => (
 						href="/empresa"
 						className="hover:underline text-[#D1E0FB]"
 					>
-						Credito Empresas
+						Crédito Empresas
 					</NextLink>
 				</li>
 			</ul>

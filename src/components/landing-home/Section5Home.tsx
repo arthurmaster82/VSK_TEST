@@ -26,7 +26,7 @@ const Section5Home: React.FunctionComponent<ISection5HomeProps> = props => {
 					</span>
 
 					<h6 className="text-info text-center mb-8 text-2xl">
-						Capital de Crecimento
+						Capital de Crescimento
 					</h6>
 
 					<p className="text-lg font-light xl:px-12 text-center">
@@ -36,7 +36,7 @@ const Section5Home: React.FunctionComponent<ISection5HomeProps> = props => {
 					</p>
 
 					<span className="w-full text-center text-info flex gap-2 items-center justify-center mt-6 text-lg cursor-pointer hover:text-infoHover transition duration-150">
-						<span>Acceso ao capital</span>{' '}
+						<span>Acesso ao capital</span>{' '}
 						<AiOutlineArrowRight />
 					</span>
 				</Card>

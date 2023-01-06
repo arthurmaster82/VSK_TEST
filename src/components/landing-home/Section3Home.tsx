@@ -16,7 +16,7 @@ const Section3Home: React.FC = () => {
 
 						<h6 className="text-2xl flex items-center gap-4">
 							<span>
-								Abra a sua conta E ative o seu
+								Abra a sua conta e ative o seu
 								cartão{' '}
 							</span>{' '}
 							<AiOutlineArrowRight />
@@ -43,7 +43,7 @@ const Section3Home: React.FC = () => {
 					</div>
 					<div>
 						<h2 className="text-4xl lg:text-start text-center text-gray-50 lg:text-7xl mb-4">
-							Prefere seu <br /> cartão fisico?
+							Prefere seu <br /> cartão físico?
 						</h2>
 
 						<div className="flex md:justify-start justify-center items-center">

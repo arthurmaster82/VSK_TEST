@@ -6,7 +6,7 @@ const SecondSectionHeroHome: React.FunctionComponent<ISecondSectionHeroHomeProps
 	const {} = props;
 	return (
 		<div className="md:pb-36 pb-8 container text-center text-info font-bold md:text-5xl text-2xl">
-			Um Banco De Soluções <br /> E Produtos Construídos <br /> Com Foco Em Você.
+			UM BANCO DE SOLUÇÕES <br /> E PRODUTOS CONSTRUÍDOS <br /> COM FOCO EM VOCÊ.
 		</div>
 	);
 };

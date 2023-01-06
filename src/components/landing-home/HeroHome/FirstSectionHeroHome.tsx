@@ -40,7 +40,7 @@ const FirstSectionHeroHome: React.FunctionComponent<IFirstSectionHeroHomeProps> 
 
 						<div className="flex items-center text-center gap-2 text-xs md:text-sm mt-2">
 							<span className="py-1 px-2 border-vsk-700">
-								Sob Medida Para O Seu Negocio
+								Sob Medida Para O Seu Negócio
 							</span>
 
 							<span className="py-1 px-2 border-vsk-700">

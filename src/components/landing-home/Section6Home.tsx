@@ -48,7 +48,7 @@ const Section6Home: React.FunctionComponent<ISection6HomeProps> = props => {
 						</p>
 
 						<span className="text-info flex items-center justify-center cursor-pointer transition duration-150 hover:text-infoHover gap-2">
-							<span>Começa Agora</span>
+							<span>Comece Agora</span>
 
 							<AiOutlineArrowRight />
 						</span>
@@ -70,7 +70,7 @@ const Section6Home: React.FunctionComponent<ISection6HomeProps> = props => {
 						</p>
 
 						<span className="text-info flex items-center justify-center cursor-pointer transition duration-150 hover:text-infoHover gap-2">
-							<span>Começa Agora</span>
+							<span>Comece Agora</span>
 
 							<AiOutlineArrowRight />
 						</span>
@@ -93,7 +93,7 @@ const Section6Home: React.FunctionComponent<ISection6HomeProps> = props => {
 						</p>
 
 						<span className="text-info flex items-center justify-center cursor-pointer transition duration-150 hover:text-infoHover gap-2">
-							<span>Começa Agora</span>
+							<span>Comece Agora</span>
 
 							<AiOutlineArrowRight />
 						</span>

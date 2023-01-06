@@ -9,7 +9,7 @@ const Section7Home: React.FunctionComponent<ISection7HomeProps> = props => {
 		<div className="bg-black px-8 py-36">
 			<div className="container text-center text-info text-3xl">
 				<h2>
-					Conecte-se com e seu mundo financeiro <br /> e tenha o
+					Conecte-se com o seu mundo financeiro <br /> e tenha o
 					controle das suas finanças <br /> na palma da sua mão.
 				</h2>
 
