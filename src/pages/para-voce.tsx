@@ -13,7 +13,7 @@ const Section5About = dynamic(() => import('@/components/landing-about/Section5A
 const Section6About = dynamic(() => import('@/components/landing-about/Section6About'));
 const Section7About = dynamic(() => import('@/components/landing-about/Section7About'));
 const Section8About = dynamic(() => import('@/components/landing-about/Section8About'));
-const Section9About = dynamic(() => import('@/components/landing-about/Section9About'));
+
 
 interface IParaVoceProps {}
 
