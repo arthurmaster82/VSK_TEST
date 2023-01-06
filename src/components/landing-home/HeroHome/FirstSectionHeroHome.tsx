@@ -53,10 +53,7 @@ const FirstSectionHeroHome: React.FunctionComponent<IFirstSectionHeroHomeProps> 
 								Conta PJ Empresas
 							</span>
 
-							<span className="py-1 px-2 border-vsk-700">
-								Carteira Crypto
-							</span>
-						</div>
+							</div>
 					</div>
 				</div>
 			</div>

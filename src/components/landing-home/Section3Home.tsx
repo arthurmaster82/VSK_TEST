@@ -43,13 +43,13 @@ const Section3Home: React.FC = () => {
 					</div>
 					<div>
 						<h2 className="text-4xl lg:text-start text-center text-gray-50 lg:text-7xl mb-4">
-							Prefere seu <br /> cartao fisico?
+							Prefere seu <br /> cartão fisico?
 						</h2>
 
 						<div className="flex md:justify-start justify-center items-center">
 							<button className="btn btn-info btn-sm w-56  rounded-none text-start">
 								<span>
-									Eu quero o cartão físico?
+									Eu quero cartão físico?
 									Peça já o seu
 								</span>
 

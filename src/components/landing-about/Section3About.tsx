@@ -29,7 +29,7 @@ const Sectio3About: React.FunctionComponent<ISectio3AboutProps> = props => {
 							personalizados, com limite de gastos diários
 							ou mensais, e gerencie todas as transações
 							na tela do seu celular, com a certeza que
-							está usufruindo de tudo o pode.
+							está usufruindo de tudo que pode.
 						</div>
 					</div>
 				</div>

@@ -14,7 +14,7 @@ const Sectio8About: React.FunctionComponent<ISectio8AboutProps> = props => {
 					<h6 className="text-sm mb-4 font-light">VSK MAIS CRIPTO</h6>
 
 					<h6 className="font-bold mb-8 md:text-4xl text-2xl">
-						CHEGAMOS PARA OFERECER UMA NOVA EXPERIÊNCIA DE
+						CHEGAMOS PARA OFERECER UMA NOVA EXPERIÊNCIA 
 						FINANCEIRA.
 					</h6>
 

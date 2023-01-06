@@ -9,7 +9,7 @@ const Section2Home: React.FunctionComponent<ISection2HomeProps> = props => {
 			<div className="flex md:flex-row flex-col gap-12 md:gap-20 px-4 max-w-6xl mx-auto md:py-28 py-16">
 				<div>
 					<h2 className="text-2xl md:text-4xl lg:text-6xl mb-4">
-						SEU CARTÃO <br /> DE CREDITO TRANSPARENTE.
+						SEU CARTÃO <br /> DE CRÉDITO TRANSPARENTE.
 					</h2>
 
 					<h6 className="text-xl font-bold mb-8">

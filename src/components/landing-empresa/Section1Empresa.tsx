@@ -17,7 +17,7 @@ const Section1Empresa: React.FunctionComponent<ISection1EmpresaProps> = props =>
 
 					<h6 className="mb-8 md:text-5xl text-3xl text-center lg:text-start">
 						Chegamos para <br /> oferecer uma nova experiência
-						de <br /> financeira pessoal.
+						<br /> financeira pessoal.
 					</h6>
 				</div>
 			</div>

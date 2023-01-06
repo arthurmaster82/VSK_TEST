@@ -20,8 +20,7 @@ const Sectio7About: React.FunctionComponent<ISectio7AboutProps> = props => {
 						Fundos de ações, fundos multimercado, fundos
 						cambiais, fundos de crédito privado, fundos com
 						liquidez imediata ou para quem quer investir por um
-						tempo mais prolongado. As criptomoedas são algumas
-						das opções disponíveis para o investidor VSK MAIS.
+						tempo mais prolongado. 
 					</h6>
 				</div>
 

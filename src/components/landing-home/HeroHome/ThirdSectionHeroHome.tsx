@@ -76,7 +76,7 @@ const ThirdSectionHeroHome: React.FunctionComponent<IThirdSectionHeroHomeProps> 
 						</span>
 
 						<span className="absolute bottom-0 top-0 my-auto h-[4rem] 2xl:right-10 xl:right-5 lg:right-2 w-48 right-36 bg-gray-600 py-3 px-8 text-sm text-white rounded-full whitespace-nowrap">
-							CARTAO DE CRÉDITO <br /> INSTANTANEO
+							CARTAO DE CRÉDITO <br /> INSTANTÂNEO
 						</span>
 					</div>
 				</div>
