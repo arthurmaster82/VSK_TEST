@@ -17,7 +17,7 @@ const Section1About: React.FunctionComponent<ISection1AboutProps> = props => {
 
 					<h6 className="mb-8 md:text-5xl text-3xl text-center lg:text-start">
 						Chegamos para <br /> oferecer uma nova <br />{' '}
-						experiência de <br /> financeira pessoal.
+						experiência  <br /> financeira pessoal.
 					</h6>
 				</div>
 			</div>

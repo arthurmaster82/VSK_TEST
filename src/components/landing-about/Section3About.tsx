@@ -13,7 +13,7 @@ const Sectio3About: React.FunctionComponent<ISectio3AboutProps> = props => {
 					Gerencie todas as finanças <br /> em um só lugar
 				</h2>
 				<h6 className="lg:text-2xl text-xl text-center mt-8">
-					Assuma O Controle
+					Assuma o Controle
 				</h6>
 
 				<div className="flex flex-col justify-center items-center gap-16 mt-10">
