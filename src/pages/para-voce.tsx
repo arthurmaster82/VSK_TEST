@@ -30,7 +30,6 @@ const ParaVoce: NextPage<IParaVoceProps> = props => {
 			<Section6About />
 			<Section7About />
 			<Section8About />
-			<Section9About />
 			<Section7Home />
 		</Container>
 	);
