@@ -69,7 +69,7 @@ const Section3Empresa: React.FunctionComponent<ISection3EmpresaProps> = props =>
 								</span>
 
 								<h2 className="mt-8 text-2xl">
-									Capital de Crescimiento
+									Capital de Crescimento
 								</h2>
 
 								<p className="text-gray-300 font-light text-sm lg:mt-8 mt-4 2xl:px-3">

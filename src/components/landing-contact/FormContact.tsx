@@ -63,7 +63,7 @@ const FormContact: React.FunctionComponent<IFormContactProps> = props => {
 
 				<span className="text-slate-300 text-sm">
 					Rio de Janeiro, Rio de Janeiro, Brasil <br /> Contate-nos{' '}
-					<br /> llessa@vskmais.com <br /> 5521999822245
+					<br /> info@vskholdings.co <br /> + 55 21 999999999
 				</span>
 			</div>
 		</section>

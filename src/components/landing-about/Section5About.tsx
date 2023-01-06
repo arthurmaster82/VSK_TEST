@@ -17,7 +17,7 @@ const Sectio5About: React.FunctionComponent<ISectio5AboutProps> = props => {
 					</h2>
 					<h6 className="md:text-xl text-lg mb-12 text-center">
 						Invista na tranquilidade de saber que o seu
-						patrimônio está protegido, queda sua família tem
+						patrimônio está protegido, que a sua família tem
 						suporte financeiro para qualquer eventualidade e que
 						seu negócio está livre de prejuízos inesperados.
 					</h6>
