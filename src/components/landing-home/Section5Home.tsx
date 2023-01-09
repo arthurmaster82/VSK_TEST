@@ -87,7 +87,7 @@ const Section5Home: React.FunctionComponent<ISection5HomeProps> = props => {
 
 				<div className="xl:py-0 py-6">
 					<button className="btn-info xl:absolute bottom-0 lg:p-8 p-4 text-2xl flex items-center gap-2 xl:right-32 2xl:right-56 mx-auto transition duration-150">
-						<span>Comece agora</span> <AiOutlineArrowRight />
+						<span>Comece Agora</span> <AiOutlineArrowRight />
 					</button>
 				</div>
 			</div>

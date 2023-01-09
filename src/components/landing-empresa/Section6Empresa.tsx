@@ -28,7 +28,7 @@ const Section6Empresa: React.FunctionComponent<ISection6EmpresaProps> = props =>
 					</p>
 
 					<button className="btn btn-info rounded-none mt-8 btn-sm">
-						Comece agora
+						Comece Agora
 					</button>
 				</div>
 

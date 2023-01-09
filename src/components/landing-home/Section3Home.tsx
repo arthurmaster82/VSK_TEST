@@ -49,7 +49,7 @@ const Section3Home: React.FC = () => {
 						<div className="flex md:justify-start justify-center items-center">
 							<button className="btn btn-info btn-sm w-56  rounded-none text-start">
 								<span>
-									Eu quero cartão físico?
+									Eu quero cartão físico.
 									Peça já o seu
 								</span>
 

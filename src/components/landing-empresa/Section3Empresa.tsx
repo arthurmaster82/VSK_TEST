@@ -103,8 +103,8 @@ const Section3Empresa: React.FunctionComponent<ISection3EmpresaProps> = props =>
 									escondidas. Notificações de
 									compras em tempo real,
 									definição de limite de
-									gastos por mês, pensado no
-									seu negócio, com atendimento
+									gastos por mês, pensado para 
+									o seu negócio, com atendimento
 									24hr.
 								</p>
 							</header>
@@ -166,7 +166,7 @@ const Section3Empresa: React.FunctionComponent<ISection3EmpresaProps> = props =>
 						</span>
 						<span className="sm:w-auto w-full">
 							<button className="btn btn-sm btn-info whitespace-nowrap rounded-none sm:w-auto w-full">
-								Comece agora
+								Comece Agora
 							</button>
 						</span>
 					</div>

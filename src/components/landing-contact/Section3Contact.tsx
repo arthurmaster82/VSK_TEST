@@ -10,7 +10,7 @@ const Section3Contact: React.FunctionComponent<ISection3ContactProps> = props =>
 		<div className="bg-black px-8 py-36">
 			<div className="container text-center text-white text-3xl">
 				<h2>
-					Abra agora a sua conta VSK, <br /> ative seu cartao virtual
+					Abra agora a sua conta VSK, <br /> ative seu cartão virtual
 					e <span className="text-info">Seja Mais.</span>
 				</h2>
 

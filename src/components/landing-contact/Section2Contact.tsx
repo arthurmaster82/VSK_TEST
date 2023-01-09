@@ -80,7 +80,7 @@ const Section2Contact: React.FunctionComponent<ISection2ContactProps> = props =>
 								sem tarifas escondidas. Notificações
 								de compras em tempo real, definição
 								de limite de gastos por mês, pensado
-								no seu negócio, com atendimento
+								para o seu negócio, com atendimento
 								24hr.
 							</p>
 						</div>
@@ -116,7 +116,7 @@ const Section2Contact: React.FunctionComponent<ISection2ContactProps> = props =>
 
 						<div className="flex items-center justify-end">
 							<button className="btn btn-info lg:px-12 px-6 rounded-none btn-sm">
-								Comece agora
+								Comece Agora
 							</button>
 						</div>
 					</div>

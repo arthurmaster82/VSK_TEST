@@ -79,7 +79,7 @@ const Sectio2About: React.FunctionComponent<ISectio2AboutProps> = props => {
 						</p>
 
 						<button className="btn bg-[#00E4EF] btn-sm hover:bg-[#00b5be] text-black rounded-none">
-							Comece agora
+							Comece Agora
 						</button>
 					</div>
 				</div>

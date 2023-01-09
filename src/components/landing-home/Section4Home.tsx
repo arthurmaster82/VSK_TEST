@@ -45,7 +45,7 @@ const Section4Home: React.FunctionComponent<ISection4HomeProps> = props => {
 								</p>
 
 								<button className="btn mt-1 btn-sm bg-[#004959] hover:bg-[#006a81] duration-150 transition text-info rounded-none">
-									Comece agora{' '}
+									Comece Agora{' '}
 									<AiOutlineArrowRight />
 								</button>
 							</div>

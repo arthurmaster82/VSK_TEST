@@ -104,7 +104,7 @@ const Section4Empresa: React.FunctionComponent<ISection4EmpresaProps> = props =>
 
 							<p className="text-slate-800 lg:mt-4 lg:text-base text-sm lg:pr-28 font-light">
 								Com a transparência de dados do Open
-								finance, é possível criar produtos e
+								Finance, é possível criar produtos e
 								ofertas mais competitivos, com
 								condições melhores e personalizadas
 								para cada cliente, como tarifas mais
