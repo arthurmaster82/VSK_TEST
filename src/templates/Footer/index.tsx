@@ -24,7 +24,7 @@ const Footer: React.FunctionComponent = () => (
 					</div>
 
 					<p className="text-gray-400 text-sm mt-8">
-						© VSK BANK 2022
+						© VSK 2022
 					</p>
 				</div>
 				<SectionsFooter />
