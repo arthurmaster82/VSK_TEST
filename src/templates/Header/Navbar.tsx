@@ -23,7 +23,7 @@ const Navbar: React.FC<INavbarProps> = props => {
 				<RenderIf isTrue={true}>
 					<li className="hidden lg:block">
 						<NextLink
-							href="/signin"
+							href="https://ip-vskbank-stg.4bank.com.br"
 							className="btn-sm rounded-full px-4 border border-slate-800 text-xs hover:bg-slate-800 hover:text-white transition duration-150"
 						>
 							<span className="whitespace-nowrap">
