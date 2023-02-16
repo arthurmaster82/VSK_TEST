@@ -32,11 +32,15 @@ const Navbar: React.FC<INavbarProps> = props => {
 						</NextLink>
 					</li>
 					<li className="lg:flex hidden gap-2 items-center group cursor-pointer">
-						<button className="text-sm border-b border-slate-800 group-hover:text-slate-600 group-hover:border-slate-600 transition duration-150">
+					<NextLink
+						href="https://pc-vskbank-stg.4bank.com.br/"
+					    className="text-sm border-b border-slate-800 group-hover:text-slate-600 group-hover:border-slate-600 transition duration-150">
+							
 							<span className="whitespace-nowrap">
 								Abra a sua conta
-							</span>{' '}
-						</button>
+							</span>
+							</NextLink>
+						
 
 						<AiOutlineArrowRight className="text-xs group-hover:text-slate-600 transition duration-150" />
 					</li>
